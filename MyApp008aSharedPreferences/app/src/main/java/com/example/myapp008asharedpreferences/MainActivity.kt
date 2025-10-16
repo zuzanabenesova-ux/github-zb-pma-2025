@@ -52,7 +52,7 @@ class MainActivity : AppCompatActivity() {
                 binding.etName.setText(age.toString())
                 binding.cbAdult.isChecked = isAdult
             }
-
+//fsg
         }
     }
 }
